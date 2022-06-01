@@ -1,0 +1,75 @@
+———————————————-——-
+⚙️Spoporte De Urls⚙️
+———————————————-——-
+apkpure
+mega (Archivos y Carpetas)
+mediafire (Archivos)
+Youtube (Nota: Descargas un poco lentas)
+Telegram (Archivos reenviados)
+
+-Para generar un enlace de un archivo de telegram reenvie el archivo a @tg_file_link_bot y le respondra con un mensaje de varios botons, deje apretado el primer boton y copie el enlace.
+
+———————————————-——-
+⚙️Administrador⚙️
+———————————————-——-
+
+@User0075_69
+
+———————————————-——-
+📑Tutorial📑
+———————————————-——-
+-Al entrar en el bot les va a pedir su cuenta de moodle, antes especifique su host (ejemplo https://moodle.uclv.edu.cu/) y depues configure su cuenta enviandole al bot el comando /account  seguido myusuario,contraseña .
+-Puede cambiar el tamaño de los archivos comprimidos enviandole al bot el comando /zips tamaño
+———————————————-——-
+📑Ejemplo de Descarga📑
+———————————————-——-
+》Descargando... 
+》Nombre: Halo.S01e03-(dual-latino)(1080p).mp4
+》Tamaño Total: 414MiB
+》Descargado: 201 MiB
+》Velocidad: 10.0MiB/s
+/cancel_asd9ajas9
+
+-Para cancelar una descarga: /cancel_asd9ajas9 y al cabo de 3s se cancelará-
+———————————————-——-
+📑Ejemplo de Subida📑
+———————————————-——-
+》Subiendo A La Nube☁️... 
+》Nombre: Halo.S01e03-(dual-latino)(1080p).mp4
+ (http://miui_limeglobal_Halo.S01e03-(dual-latino)(1080p).mp4/) (http://miui_limeglobal_Halo.S01e03-(dual-latino)(1080p).mp4/)》Subiendo: Halo.S01e03-(dual-latino)(1080p)
+》Tamaño Total: 195.9MiB
+》Subido: 176.0MiB
+》Velocidad: 20.8MiB/s
+-Nota: Las subidas no se cancelan-
+———————————————-——-
+📑Ejemplo Proceso Terminado📑
+———————————————-——-
+》Proceso Finalizado
+》Nombre: Halo.S01e03-(dual-latino)(1080p).mp4
+ (http://miui_limeglobal_Halo.S01e03-(dual-latino)(1080p).mp4/) (http://miui_limeglobal_Halo.S01e03-(dual-latino)(1080p).mp4/)》Tamaño Total: 414MiB
+》Tamaño Partes: 2.0GiB
+》Partes Subidas: 1/1
+
+》Archivo: /file_10
+》TxT: /txt_10
+》Borrar Archivo: /del_10
+
+-Para Extraer EL/Los Enlaces del archivo basta con tocar /file_10 -
+-Para Extraer EL/Los Enlaces del archivo en un txt basta con tocar /txt_10 -
+-Para Borrar EL archivo basta con tocar /del_10 -
+-Nota: En Caso de q extraiga un archivo q no es envie el comando /files y espera a q salga la lista de arcvhivos-
+———————————————-——-
+📑Ejemplo Lista De Archivos📑
+———————————————-———————————————-——-
+》Archivos (4):
+/txt_0 /file_0 /del_0
+Halo.S01e03-(dual-latino)(1080p)
+
+/txt_1 /file_1 /del_1
+How to Create a Modern Login Window in WPF using C# | C# Tutorial.
+
+/txt_2 /file_2 /del_2
+Phoenix Browser Fast Safe_v9.
+
+/txt_3 /file_3 /del_3
+Snapchat_v11.
